@@ -1,0 +1,1 @@
+Welcome to the Fun Fact of the Day website! This site provides a random fun fact each time you click the "Get a Fun Fact" button. It's a simple project designed to share interesting and educational facts with users in a visually appealing way.
